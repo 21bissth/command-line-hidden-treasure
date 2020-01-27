@@ -1,2 +1,3 @@
-Make your computer speak with the say command.
-Type: say "hey whatsup, hello" to make your computer say hey whatsup, hello in the default system voice.
+Be lazy and don't type out everything.
+
+If you start typing a directory or file name, then press the <TAB> key on your keyboard, the terminal will auto-complete whatever it can for you.  If it only auto-completed part of what you want, you can just keep typing to finish.
