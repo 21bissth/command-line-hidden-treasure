@@ -1,18 +1,13 @@
-# Student Reference: Taking Command
-
-1. [Motivation](#motivation)
-2. [Find Your Terminal](#find)
-3. [Viewing Content](#view)
-4. [Moving](#move)
-5. [Hidden Treasure Activity](#lab)
+# Command Line Hidden Treasure
 
 #### <a id = "motivation"></a> Why learn command line?
-Using the command line is a way for you to directly communicate with your computer. Rather than using something like Finder on Mac, you can talk directly to your machine. Think about it like learning a new language, one that your computer is fluent in.
+Using the command line is a way for you to directly communicate with your computer. Rather than using something like Files, Finder or Windows Explorer, you can talk directly to your machine. Think about it like learning a new language, one that your computer is fluent in.
 
-One way we can use the command line is to navigate through out files. In order to do this we need to be able to tell our computer **where** we want to go, and find out **what** is inside of the folder we're in.
+One way we can use the command line is to navigate through our files. In order to do this we need to be able to tell our computer **where** we want to go, and find out **what** is inside of the folder we're in.
 
 #### <a id = "find"></a> Where is my terminal?
-You'll be using what you learn here in your terminal. This is a place where you can speak directly to your computer. If you're using a mac, open your spotlight search and type in terminal.
+You'll be using what you learn here in your terminal. This is a place where you can speak directly to your computer. In the cs50 ide, 
+![typing pwd](https://i.imgur.com/fZLU7wJ.gifv)
 
 #### <a id = "view"></a> What is inside of my folders?
 Before we start moving around the folders on your computer, let's make sure we know our current location or *working directory*. The text after the "~" and before the "$" will tell you where in your computer you are. We'll use the ls command to **list** all of the files inside our current folder.
