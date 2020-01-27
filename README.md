@@ -6,8 +6,9 @@ Using the command line is a way for you to directly communicate with your comput
 One way we can use the command line is to navigate through our files. In order to do this we need to be able to tell our computer **where** we want to go, and find out **what** is inside of the folder we're in.
 
 #### <a id = "find"></a> Where is my terminal?
-You'll be using what you learn here in your terminal. This is a place where you can speak directly to your computer. In the cs50 ide, 
-![typing pwd](https://i.imgur.com/fZLU7wJ.gifv)
+You'll be using what you learn here in your terminal. This is a place where you can speak directly to your computer. In the cs50 ide, find the window that has `~/ $` and type `pwd`. You should see something like this:
+
+<img src="https://i.imgur.com/fZLU7wJ.gif" width="200">
 
 #### <a id = "view"></a> What is inside of my folders?
 Before we start moving around the folders on your computer, let's make sure we know our current location or *working directory*. The text after the "~" and before the "$" will tell you where in your computer you are. We'll use the ls command to **list** all of the files inside our current folder.
