@@ -72,6 +72,20 @@ Before you get started, make sure you're in the correct folder. If you run the c
 #### Task
 You'll be moving through the folders in this repository using the command line and looking for files called "X.txt". As we all know, X marks the spot. Be sure to use the `ls` command to see what is inside each folder you enter. Inside each file "X.txt" will be a new command that you can use in the command line, so look carefully! Every file will have a .txt extension, so anything that doesn't end in .txt is a folder and a potential treasure filled location.
 
+Each time an `X.txt` file teaches you about a new command, try it out and **write it down** (because you'll use it later).
+
 There are 5 X's total, so ready, set, and happy treasure hunting....
 
-![](https://media.giphy.com/media/g6ZTtxTm7pYsw/giphy.gif)
+<img src="https://media.giphy.com/media/g6ZTtxTm7pYsw/giphy.gif" width=300>
+
+***
+
+#### Final steps
+1. `cd` to your root directory. (The "root directory" is the one that looks like this `~/ $`.) You can get there with `cd ~`.
+1. Create a new file called `cheatsheet.txt`
+1. In that file, type out examples of each of the terminal commands you know so far and describe what each one does. Be clear because you'll refer back to this when you forget one of these.
+1. Save the file.
+1. Take a screenshot of this file and copy it into your assignment questions doc in google classroom.
+
+**Definition of done: You've followed all the steps above and pressed 'Turn in' for the assignment question on google classroom.**
+
