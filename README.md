@@ -6,13 +6,19 @@ Using the command line is a way for you to directly communicate with your comput
 One way we can use the command line is to navigate through our files. In order to do this we need to be able to tell our computer **where** we want to go, and find out **what** is inside of the folder we're in.
 
 #### Important first step
-The only way to learn this is by doing. This means turning off the "graphical" view of your files, so you are forced to use the terminal. Learning by doing.
+The only way to learn this is by doing. This means turning off the "graphical" view of your files, so you are forced to use the command line. Learning by doing.
 
 To turn off the graphical view, find the little gear icon near the left-top part of your screen and turn off "show environment root".
 
 It looks like this:
 
 <img src="https://i.imgur.com/GUDVmVN.gif" width=300>
+
+#### Other names for 'command line'
+
+"command line" == "terminal" == "console"
+
+Below we'll start to call it "terminal".
 
 #### <a id = "find"></a> Where is my terminal?
 You'll be using what you learn here in your terminal. This is a place where you can speak directly to your computer. In the cs50 ide, find the window that has `~/ $` and type `pwd`. You should see something like this:
