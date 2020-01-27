@@ -1,3 +1,4 @@
-Are you a huge fan of Star Wars?
+Remove a file that you don't want by typing rm filename.
 
-Type telnet towel.blinkenlights.nl followed by enter to watch an ASCII  text-based version of Star Wars Episode IV: A New Hope.
+Example: rm Broken_Harddive.txt
+
