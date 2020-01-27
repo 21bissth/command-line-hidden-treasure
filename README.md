@@ -60,6 +60,10 @@ Type `cd ..` to move out of that directory (or in programmer-speak: "up the dire
 
 Type `ls` again.
 
+#### How do I read a file?
+
+Type `open WarAndPeace.txt` to read a file called WarAndPeace.txt. Of course you can change that filename to whatever you want, as long as its a filename you can see when you `ls`.
+
 ***
 
 # <a id = "lab"></a> Hidden Treasure Activity
@@ -83,7 +87,7 @@ There are 5 X's total, so ready, set, and happy treasure hunting....
 #### Final steps
 1. `cd` to your root directory. (The "root directory" is the one that looks like this `~/ $`.) You can get there with `cd ~`.
 1. Create a new file called `cheatsheet.txt`
-1. In that file, type out examples of each of the terminal commands you know so far and describe what each one does. Be clear because you'll refer back to this when you forget one of these.
+1. In that file, type out examples of each of the terminal commands (or tricks) you know so far and describe what each one does. Include what's above on this page: `cd` `ls` `open` `pwd` `git`, and also include the things you learn in the `X.txt` files. Be clear because you'll refer back to this when you forget one of these.
 1. Save the file.
 1. Take a screenshot of this file and copy it into your assignment questions doc in google classroom.
 
