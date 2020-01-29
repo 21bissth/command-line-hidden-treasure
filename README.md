@@ -91,5 +91,5 @@ There are 5 X's total, so ready, set, and happy treasure hunting....
 1. Save the file.
 1. Take a screenshot of this file and copy it into your assignment questions doc in google classroom.
 
-**Definition of done: You've followed all the steps above and pressed 'Turn in' for the assignment question on google classroom.**
+**Definition of done: You've followed all the steps above and pressed 'Turn in' for the assignment questions on google classroom.**
 
